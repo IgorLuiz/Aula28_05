@@ -1,1 +1,1 @@
-shutdown -0 -t -r
+shutdown -t 60
